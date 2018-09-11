@@ -1,0 +1,13 @@
+C:\Users\Евгений\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Евгений\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Евгений\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Евгений\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Евгений\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Evgeshka\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Evgeshka\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Evgeshka\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Evgeshka\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Evgeshka\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Evgeshka\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
